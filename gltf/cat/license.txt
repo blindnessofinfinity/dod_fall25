@@ -1,0 +1,11 @@
+Model Information:
+* title:	Babuleh Cat - Бабулех
+* source:	https://sketchfab.com/3d-models/babuleh-cat-08559ff812be45e999bf271df2cd2912
+* author:	Ponter (https://sketchfab.com/ponter)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Babuleh Cat - Бабулех" (https://sketchfab.com/3d-models/babuleh-cat-08559ff812be45e999bf271df2cd2912) by Ponter (https://sketchfab.com/ponter) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
